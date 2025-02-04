@@ -12,15 +12,14 @@
 I’m a passionate **eCommerce Programmer** and **Web Developer** who loves creating seamless and engaging online experiences. My focus is on building robust eCommerce platforms that drive sales and enhance user experience!
 
 ## 🚀 Get In Touch
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
+- 🌐 [Portfolio](https://gurututorku.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/engkuskusnadi)
 
 <details>
 <summary>🎨 My GitHub Stats</summary>
 <br>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=engkuskusnadi&show_icons=true&theme=radical)
 
 </details>
 
