@@ -18,9 +18,9 @@ I’m a passionate **eCommerce Programmer** and **Web Developer** who loves crea
 <details>
 <summary>🎨 My GitHub Stats</summary>
 <br>
-
+<!-- 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=engkuskusnadi&show_icons=true&theme=radical)
-
+ -->
 </details>
 
 ---
