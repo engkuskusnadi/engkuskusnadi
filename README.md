@@ -12,7 +12,7 @@
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
 
 ## 👨‍💻 About Me
-I’m a passionate **eCommerce Programmer** and **Web Developer** who loves creating seamless and engaging online experiences. My focus is on building robust eCommerce platforms that drive sales and enhance user experience!
+I’m a passionate **eCommerce Specialist** and **Web Developer** who loves creating seamless and engaging online experiences. My focus is on building robust eCommerce platforms that drive sales and enhance user experience!
 
 ## 🚀 Get In Touch
 - 🌐 [Portfolio](https://gurututorku.com)
