@@ -10,7 +10,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white) 
 
 ## 👨‍💻 About Me
 I’m a passionate **eCommerce Specialist** and **Web Developer** who loves creating seamless and engaging online experiences. My focus is on building robust eCommerce platforms that drive sales and enhance user experience!
