@@ -19,6 +19,8 @@ I’m a passionate **eCommerce Specialist** and **Web Developer** who loves crea
 - 🌐 [Portfolio](https://gurututorku.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/engkuskusnadi)
 
+<img width=350 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=engkuskusnadi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
  <!-- 
 <details>
 <summary>🎨 My GitHub Stats</summary>
